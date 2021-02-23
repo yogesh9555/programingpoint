@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/yogesh9555/programingpoint/pulls">
+    <img src="https://badgen.net/github/prs/yogesh9555/programingpoint" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/yogesh9555/programingpoint" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
